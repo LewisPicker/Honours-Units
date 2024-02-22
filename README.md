@@ -1,2 +1,2 @@
 # Honours-Units
-Jupiter notebooks for daml
+Completed assesment material from my honours course. 
