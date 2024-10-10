@@ -1,2 +1,2 @@
 # Honours-Units
-Completed assesment material from my honours course. 
+Material produced for my classes in my honours year. 
